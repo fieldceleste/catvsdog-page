@@ -1,0 +1,18 @@
+img {
+ justify-items:center ;
+}
+.cat-showing {
+    display: contents;
+  }
+.cat-hidden {
+    display: none;
+}
+  
+  .clickable {
+    cursor: pointer;
+    color: #00cc4e;
+  }
+  
+  .clickable:hover {
+    text-decoration: underline;
+  }
